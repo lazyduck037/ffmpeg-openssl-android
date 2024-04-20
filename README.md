@@ -31,7 +31,7 @@ export ANDROID_SDK_HOME=/Users/lap15292-local/Android/Sdk && \
 ## Download
 
 ## References
-  - [FfmpegAndroidMaker](https://github.com/Javernaut/ffmpeg-android-maker) by [Javernaut](https://github.com/Javernaut)
+  - [FfmpegOpensslX264BinaryAndroid](https://github.com/lazyduck037/ffmpeg-openssl-x264-binary-android) by [lazyduck037](https://github.com/lazyduck037)
 
 ## FFmpeg license
 This software uses code of <a href="http://ffmpeg.org">FFmpeg</a> licensed under the <a href="http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html">LGPLv2.1</a> and its source can be downloaded [here](https://ffmpeg.org/releases/ffmpeg-7.0.tar.xz).
